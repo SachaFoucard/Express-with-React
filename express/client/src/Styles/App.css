@@ -1,0 +1,198 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.store {
+  text-align: center;
+}
+
+.store-name {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.store-details {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.items-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item {
+  margin: 20px;
+  max-width: 250px;
+  text-align: center;
+}
+
+.item-image {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.item-details {
+  background-color: #f5f5f5;
+  padding: 10px;
+}
+
+.item-name {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.item-price {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.item-discount {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: red;
+}
+
+.add-to-cart {
+  background-color: #007bff;
+  color: #fce2e2;
+  border: none;
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.add-to-cart:hover {
+  background-color: #0062cc;
+}
+.App {
+ 
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.store {
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+}
+
+.store:hover {
+  background-color: #ddd;
+}
+
+.store-name {
+  margin: 0;
+  font-size: 1.5em;
+}
+.App {
+  background-color: #202020;
+  padding: 1rem;
+}
+
+h1 {
+  text-decoration: underline;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.store {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 1rem;
+  cursor: pointer;
+  transition: transform 0.2s;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.store:hover {
+  transform: scale(1.05);
+}
+
+.store-name {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.store-items {
+  margin-top: 1rem;
+}
+
+.store-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.store-item img {
+  width: 100px;
+  margin-right: 1rem;
+}
+form{
+  display: grid;
+  margin-bottom: 20px;
+line-height: 2; 
+text-align: center;
+margin: auto;
+width: 100px;
+}
+form button:hover{
+  margin-top: 10px;
+  border: 1px white solid;
+}

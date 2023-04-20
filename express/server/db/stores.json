@@ -1,0 +1,125 @@
+ [{
+     "id": 1997,
+     "storeName": "Apple",
+     "city": "Tel-Aviv",
+     "items": [{
+             "id": 1,
+             "name": "Iphone",
+             "price": 3000,
+             "discount": 2000,
+             "pic":"https://images.unsplash.com/photo-1505156868547-9b49f4df4e04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=832&q=80"
+         },
+         {
+             "id": 2,
+             "name": "Samsung",
+             "price": 2000,
+             "discount": 1270,
+             "pic":"https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+         }, {
+             "id": 3,
+             "name": "Ipad",
+             "price": 2300,
+             "discount": 1145,
+             "pic":"https://images.unsplash.com/photo-1589739900266-43b2843f4c12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=786&q=80"
+         }, {
+             "id": 4,
+             "name": "Mackbook",
+             "price": 4600,
+             "discount": 3550,
+             "pic":""
+         }
+     ]
+ }, {
+     "id": 2000,
+     "storeName": "CarsEric",
+     "city": "Herzlia",
+     "items": [{
+             "id": 5,
+             "name": "Hopel",
+             "price": 11120,
+             "discount": 10000,
+             "pic":"https://images.unsplash.com/photo-1591278169757-deac26e49555?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80"
+         },
+         {
+             "id": 6,
+             "name": "Renault",
+             "price": 10000,
+             "discount": 9000,
+             "pic":"https://images.unsplash.com/photo-1600210733081-c3b8a58a2749?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+         }, {
+             "id": 7,
+             "name": "Mercedes",
+             "price": 30325,
+             "discount": 25000,
+             "pic":"https://images.unsplash.com/photo-1546518071-fddcdda7580a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80"
+         }, {
+             "id": 8,
+             "name": "Nissan",
+             "price": 40000,
+             "discount": 37000,
+             "pic":"https://images.unsplash.com/photo-1568074532275-b57393b08c64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+         }
+     ]
+ }, {
+     "id": 2002,
+     "storeName": "Maxtop",
+     "city": "Haifa",
+     "items": [{
+             "id": 9,
+             "name": "tousers",
+             "price": 20,
+             "discount": 10,
+             "pic":"https://images.unsplash.com/photo-1613896640137-bb5b31496315?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+         },
+         {
+             "id": 10,
+             "name": "Mirror",
+             "price": 50,
+             "discount": 30,
+             "pic":"https://images.unsplash.com/photo-1519577918463-484ce33e1ecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80"
+         }, {
+             "id": 11,
+             "name": "Classor",
+             "price": 100,
+             "discount": 85,
+             "pic":"https://plus.unsplash.com/premium_photo-1677151193419-9be7a26c02cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
+         }, {
+             "id": 12,
+             "name": "Papers",
+             "price": 10,
+             "discount": 8,
+             "pic":"https://images.unsplash.com/photo-1583521214690-73421a1829a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+         }
+     ]
+ }, {
+     "id": 2007,
+     "storeName": "OvedSabih",
+     "city": "Ramat-Gan",
+     "items": [{
+             "id": 13,
+             "name": "Falafel",
+             "price": 50,
+             "discount": 30,
+             "pic":"https://images.unsplash.com/photo-1547058881-aa0edd92aab3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+         },
+         {
+             "id": 14,
+             "name": "Sabih",
+             "price": 40,
+             "discount": 30,
+             "pic":"https://plus.unsplash.com/premium_photo-1663853051786-16613cb8ef0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+         }, {
+             "id": 15,
+             "name": "shawarma",
+             "price": 20,
+             "discount": 10,
+             "pic":"https://images.unsplash.com/photo-1530469912745-a215c6b256ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=582&q=80"
+         }, {
+             "id": 16,
+             "name": "hamba",
+             "price": 10,
+             "discount": 5,
+             "pic":"https://media.istockphoto.com/id/1445689748/photo/gongfu-cha-tea-ceremony-zhu-yao-chinese-ceramics-on-a-bamboo-tea-board-brewing-chinese-tea-in.jpg?s=1024x1024&w=is&k=20&c=h6rqmQ8zCjz4tyk6sy0raLuh0jmaU8-FbxnS97NRZLc="
+         }
+     ]
+ }]
